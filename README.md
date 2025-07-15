@@ -4,26 +4,7 @@
 
 ---
 
-### <p align="center">☄ Features ☄</p>
 
-- User authentication using JSON Web Tokens (JWT) with BFF (Backend-For-Frontend) security pattern.
-- Allow users to create, read and delete topics.
-- Allow users to create, read and delete comments.
-- Allow users to create, read and delete replies.
-- Search engine for searching topics supported with sorting filters.
-- Allow users to upvote and downvote topics and comments.
-- Allow users to see their published comments, created topics, upvoted topics, their following list and their followers list.
-- Allow users to reset their account password if they forgot it.
-- Nested comments threading.
-- Homepage feed (Front Page).
-- Allow users to follow each other.
-- Allow users to edit their profile informations and change their profile avatar and cover.
-- Users can't access their account after signin-up till they activate it from the link sent to the email associated with their account.
-- Sending users an email in case they request a password reset or an email verification.
-- ... And more to come with next updates!
-  <br>
-
----
 
 ## <p align="center">💻 Used Technologies 💻</p>
 
