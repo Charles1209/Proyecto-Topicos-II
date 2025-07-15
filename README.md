@@ -1,8 +1,6 @@
 # <p align="center">ALMA</p>
 
-<p align="center">✨🚀<em>Full-stack forum website built with MERN Stack (ReactJS, NodeJS, ExpressJS, MongoDB).</em>✨🚀</p>
 
-[Live Demo](https://onetwork.ilyasbelfar.me)
 
 ---
 
